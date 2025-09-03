@@ -6,13 +6,13 @@ This web application helps users visualize the learning path for any skill they 
 ## Setup Instructions
 
 ### Backend (Server)
-
 ````bash
 cd server
 npm install
 npm run dev
-
+````
 ### Frontend
+
 ```bash
 cd frontend
 npm install
